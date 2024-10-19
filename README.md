@@ -72,7 +72,7 @@ Bilgi
 Json
  
 
-walrus json \
+    walrus json \
     '{
         "config": "/root/.config/walrus/client_config.yaml",
         "command": {
